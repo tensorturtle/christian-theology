@@ -1,6 +1,4 @@
-# christian-theology
-Notes on Alister McGrath's Christian Theology
-=======
+
 # Notes on *Christian Theology: An Introduction* by Alister McGrath
 
 by Jason Sohn
