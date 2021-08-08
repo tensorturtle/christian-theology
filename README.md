@@ -1,5 +1,7 @@
 # Notes on *Christian Theology: An Introduction* by Alister McGrath
 
+by Jason Sohn
+
 ## Part 1: History
 
 Perspectives on
