@@ -12,7 +12,7 @@ Perspectives on
 
 across 
 
-+ [Era of Church Fathers (100-700)](ch01.md)
++ [Patristic Period (100-700)](ch01.md)
 + [Medieval and Renaissance (700-1500)](ch02.md)
 + [The Reformation (1500-1700)](ch03.md)
 + [Modern and Contemporary (1750-present)](ch04.md)
