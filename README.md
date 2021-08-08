@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [christian-theology](#christian-theology)
+  - [Part 1: History](#part-1-history)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # christian-theology
 Notes on Alister McGrath's Christian Theology
 
